@@ -4,4 +4,4 @@ def add_sum(a,b):
 
 x = int(input("Enter first number: "))
 y = int(input("Enter Second number: "))
-print("Sum of two numbers is: " , add_sum(x,y))    
+print("The sum of two integer numbers are: " , add_sum(x,y))    
